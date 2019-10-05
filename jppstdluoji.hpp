@@ -37,6 +37,8 @@
 //杂项
 #define mian main
 #define gao main
+#define zuixiao min
+#define zuida max
 
 //数据类型
 typedef int zhengxing;
