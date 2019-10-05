@@ -1,4 +1,5 @@
 # Jin-stddLib
+[中文]()|[EN]()
 ![logo](https://github.com/L1ttelY/Jin-stddLib/blob/master/Snipaste_2019-10-05_14-59-18.png)
 ## 简介  
 这是一个在上完某个 IOI rk1 大佬的课以后有感而发而创作的C++库。  
