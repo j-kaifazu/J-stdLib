@@ -19,7 +19,7 @@
 //语句
 //循环
 #define meiju(p,x,y) for(int p=x;p<=y;p++)
-#define dang(x)shi while(x)
+#define dang(x) while(x)
 #define duiyu for
 //数据结构操作
 #define charu insert
