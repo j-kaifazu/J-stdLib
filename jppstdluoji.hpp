@@ -17,6 +17,8 @@
 #define fouze else
 #define mian main
 #define gao main
+#define zuixiao min
+#define zuida max
 
 typedef int zhengxing;
 typedef long long dazhengshu;
