@@ -16,6 +16,7 @@
 #define huozhe else if
 #define fouze else
 #define mian main
+#define gao main
 
 typedef int zhengxing;
 typedef long long dazhengshu;
