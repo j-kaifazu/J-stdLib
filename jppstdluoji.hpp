@@ -3,14 +3,7 @@
 //符号
 #define ranhou {
 #define zheyang }
-//数学运算
-#define dengyu =
-#define jia +
-#define jian -
-#define cheng *
-#define chuyi /
-#define mo %
-#define kaifang(x); sqrt(x);
+
 //逻辑运算
 #define xiangtong ==
 #define qie &&
