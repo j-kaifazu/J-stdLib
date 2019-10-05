@@ -39,7 +39,7 @@
 #define gao main
 #define zuixiao min
 #define zuida max
-
+ 
 //数据类型
 typedef int zhengxing;
 typedef long long dazhengshu;
