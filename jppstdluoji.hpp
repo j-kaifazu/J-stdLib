@@ -4,6 +4,7 @@
 #define ranhou {
 #define zheyang }
 //数学运算
+#define dengyu =
 #define jia +
 #define jian -
 #define cheng *
@@ -11,6 +12,7 @@
 #define mo %
 #define kaifang(x); sqrt(x);
 //逻辑运算
+#define xiangtong ==
 #define qie &&
 #define huo ||
 
