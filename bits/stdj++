@@ -1,2 +1,2 @@
 #pragma once
-#include"luoji.hpp"
+#include"../luoji.hpp"
