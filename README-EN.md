@@ -11,5 +11,5 @@ and namespace of your program before the main function.
 Of course, you can also choose to compile your own program using our compilation AIDS (not yet done).  
 ## License  
 This project uses 
-GNU PLV3 Open Source License and SATA Open Source License. Make sure to follow Licenses when using it.
+GNU GPLV3 Open Source License and SATA Open Source License. Make sure to follow Licenses when using it.
 
